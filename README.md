@@ -9,5 +9,5 @@ Front View:
 Side View:
 <img width="602" height="533" alt="PhoneStand SideView" src="https://github.com/user-attachments/assets/cbff44d7-3ae3-4ed9-9421-028ebb7c1cdf" />
 
-Front-Side View
+Front-Side View:
 <img width="686" height="737" alt="PhoneStand FrontSideView" src="https://github.com/user-attachments/assets/b20211d9-bfce-42be-a286-b433e2eeb3c8" />
