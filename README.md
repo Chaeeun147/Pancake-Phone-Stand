@@ -3,6 +3,8 @@ My custom pancake phone stand! It can hold my phone both vertically and horizont
 
 I made this project because I used to have a phone stand I used quite often, but one day it broke, and I never got another one. When I learned how to 3D model, I thought, "Why don't I just make my own?", so I decided to design this.
 
+Project Link: https://cad.onshape.com/documents/4f2ab2be888f9075192a882d/w/1bcd3e0da688f71f18163064/e/78e69948e8cb21c17dc3c382?renderMode=0&uiState=69e0d0a3edefbf46bc3ca7a2
+
 Front-Side View:
 <img width="686" height="737" alt="PhoneStand FrontSideView" src="https://github.com/user-attachments/assets/b20211d9-bfce-42be-a286-b433e2eeb3c8" />
 
